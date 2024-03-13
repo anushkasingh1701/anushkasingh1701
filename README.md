@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @anushkasingh1701
-- 👀 I’m interested in Web Development
+- 👋 Hi, I’m Anushka Singh
+- 👀 I’m interested in Web Development.
 - 🌱 I’m a 3rd year btech student.
-- 💞️ I’m looking to collaborate
+- 💞️ I’m looking for collaboration.
 
 <!---
 anushkasingh1701/anushkasingh1701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
