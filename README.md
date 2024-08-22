@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anushka Singh</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🌱 I’m currently learning **MERN stack and Golang**
+- 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **anushkasingh170103@gmail.com**
   
